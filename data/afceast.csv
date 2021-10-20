@@ -1,0 +1,379 @@
+,,,,,,,,,,,,Score,Score,Offense,Offense,Offense,Offense,Offense,Defense,Defense,Defense,Defense,Defense,Expected Points,Expected Points,Expected Points
+tm,season,Week,Day,Date,,,,OT,Rec,,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+Patriots,2020,1,Sun,13-Sep,1:00PM ET,boxscore,W,,1-0,,Miami Dolphins,21,11,29,357,140,217,1,20,269,182,87,3,14.11,2.2,-5.64
+Patriots,2020,2,Sun,20-Sep,8:20PM ET,boxscore,L,,1-1,@,Seattle Seahawks,30,35,29,464,397,67,1,22,429,275,154,1,19.82,-14.54,-6.98
+Patriots,2020,3,Sun,27-Sep,1:00PM ET,boxscore,W,,2-1,,Las Vegas Raiders,36,20,25,406,156,250,1,22,375,249,126,3,11.03,-0.71,5.81
+Patriots,2020,4,Mon,5-Oct,7:05PM ET,boxscore,L,,2-2,@,Kansas City Chiefs,10,26,21,357,172,185,4,19,323,229,94,1,-10.82,-5.72,3.78
+Patriots,2020,5,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2020,6,Sun,18-Oct,1:00PM ET,boxscore,L,,2-3,,Denver Broncos,12,18,14,288,171,117,3,15,299,164,135,2,-13.3,6.67,1.59
+Patriots,2020,7,Sun,25-Oct,4:25PM ET,boxscore,L,,2-4,,San Francisco 49ers,6,33,17,241,147,94,4,26,467,270,197,2,-9.49,-22.44,6.55
+Patriots,2020,8,Sun,1-Nov,1:00PM ET,boxscore,L,,2-5,@,Buffalo Bills,21,24,20,349,161,188,1,22,339,149,190,1,8.26,-8.85,-0.85
+Patriots,2020,9,Mon,9-Nov,8:15PM ET,boxscore,W,,3-5,@,New York Jets,30,27,30,433,274,159,,18,322,257,65,1,18.7,-18.71,2.16
+Patriots,2020,10,Sun,15-Nov,8:20PM ET,boxscore,W,,4-5,,Baltimore Ravens,23,17,25,308,135,173,,19,357,242,115,1,13.95,-3.45,-1.86
+Patriots,2020,11,Sun,22-Nov,1:00PM ET,boxscore,L,,4-6,@,Houston Texans,20,27,22,435,349,86,,21,399,344,55,,13.67,-15.69,-0.27
+Patriots,2020,12,Sun,29-Nov,1:00PM ET,boxscore,W,,5-6,,Arizona Cardinals,20,17,16,179,69,110,2,23,298,160,138,1,-4.68,0,9.06
+Patriots,2020,13,Sun,6-Dec,4:25PM ET,boxscore,W,,6-6,@,Los Angeles Chargers,45,0,22,291,126,165,,17,258,188,70,2,9.66,16.13,22.19
+Patriots,2020,14,Thu,10-Dec,8:20PM ET,boxscore,L,,6-7,@,Los Angeles Rams,3,24,10,220,113,107,1,17,318,132,186,1,-29.77,-1.19,8.58
+Patriots,2020,15,Sun,20-Dec,1:00PM ET,boxscore,L,,6-8,@,Miami Dolphins,12,22,18,303,186,117,1,26,383,133,250,1,-1,-16.71,6.16
+Patriots,2020,16,Mon,28-Dec,8:15PM ET,boxscore,L,,6-9,,Buffalo Bills,9,38,11,201,56,145,,31,474,344,130,,-2.39,-26.17,1.1
+Patriots,2020,17,Sun,3-Jan,1:00PM ET,boxscore,W,,7-9,,New York Jets,28,14,23,404,238,166,,21,350,239,111,2,18.13,-3.92,-0.05
+Patriots,2019,1,Sun,8-Sep,8:20PM ET,boxscore,W,,1-0,,Pittsburgh Steelers,33,3,24,465,366,99,,15,308,276,32,1,18.24,9.5,-0.8
+Patriots,2019,2,Sun,15-Sep,1:00PM ET,boxscore,W,,2-0,@,Miami Dolphins,43,0,27,379,255,124,1,11,184,142,42,4,14.12,35.44,-12.05
+Patriots,2019,3,Sun,22-Sep,1:00PM ET,boxscore,W,,3-0,,New York Jets,30,14,21,381,313,68,2,6,105,69,36,1,1.65,26.43,-9.81
+Patriots,2019,4,Sun,29-Sep,1:00PM ET,boxscore,W,,4-0,@,Buffalo Bills,16,10,11,224,150,74,1,23,375,240,135,4,-14.59,12.71,6.09
+Patriots,2019,5,Sun,6-Oct,1:00PM ET,boxscore,W,,5-0,@,Washington Redskins,33,7,23,442,312,130,1,11,223,78,145,2,9.23,20.78,-6.54
+Patriots,2019,6,Thu,10-Oct,8:20PM ET,boxscore,W,,6-0,,New York Giants,35,14,27,427,313,114,2,10,213,161,52,4,-0.69,24.29,1.1
+Patriots,2019,7,Mon,21-Oct,8:15PM ET,boxscore,W,,7-0,@,New York Jets,33,0,22,323,249,74,1,12,154,73,81,6,2.21,28.37,1.82
+Patriots,2019,8,Sun,27-Oct,4:25PM ET,boxscore,W,,8-0,,Cleveland Browns,27,13,19,318,239,79,,15,310,151,159,3,4.62,19.38,-7.91
+Patriots,2019,9,Sun,3-Nov,8:20PM ET,boxscore,L,,8-1,@,Baltimore Ravens,20,37,22,342,268,74,2,26,372,162,210,2,-5.25,-14.46,5.09
+Patriots,2019,10,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2019,11,Sun,17-Nov,4:25PM ET,boxscore,W,,9-1,@,Philadelphia Eagles,17,10,19,298,224,74,,21,255,174,81,1,-4.83,9.17,0.43
+Patriots,2019,12,Sun,24-Nov,4:25PM ET,boxscore,W,,10-1,,Dallas Cowboys,13,9,17,282,181,101,,16,321,212,109,1,-7.59,7.56,4.62
+Patriots,2019,13,Sun,1-Dec,8:20PM ET,boxscore,L,,10-2,@,Houston Texans,22,28,29,448,303,145,1,16,276,224,52,,9.51,-10.32,-6.77
+Patriots,2019,14,Sun,8-Dec,4:25PM ET,boxscore,L,,10-3,,Kansas City Chiefs,16,23,17,278,184,94,1,20,346,271,75,2,-5.79,1.14,-1.25
+Patriots,2019,15,Sun,15-Dec,1:00PM ET,boxscore,W,,11-3,@,Cincinnati Bengals,34,13,19,291,116,175,,19,315,151,164,5,2.27,12.48,6.29
+Patriots,2019,16,Sat,21-Dec,4:30PM ET,boxscore,W,,12-3,,Buffalo Bills,24,17,23,414,271,143,1,14,268,176,92,,6.06,0.45,-0.88
+Patriots,2019,17,Sun,29-Dec,1:00PM ET,boxscore,L,,12-4,,Miami Dolphins,24,27,18,352,217,135,2,26,389,326,63,,6.29,-13.34,4.09
+Patriots,2019,Wild Card,Sat,4-Jan,8:15PM ET,boxscore,L,,12-5,,Tennessee Titans,13,20,18,307,209,98,2,19,272,71,201,1,-0.84,-2.83,-0.2
+Patriots,2018,1,Sun,9-Sep,1:00PM ET,boxscore,W,,1-0,,Houston Texans,27,20,23,389,267,122,3,21,325,158,167,2,4.29,8.05,-6.85
+Patriots,2018,2,Sun,16-Sep,4:25PM ET,boxscore,L,,1-1,@,Jacksonville Jaguars,20,31,18,302,220,82,1,27,480,376,104,2,2.13,-18.76,4.44
+Patriots,2018,3,Sun,23-Sep,8:20PM ET,boxscore,L,,1-2,@,Detroit Lions,10,26,12,209,120,89,1,25,414,255,159,1,-5.39,-13.69,2.81
+Patriots,2018,4,Sun,30-Sep,1:00PM ET,boxscore,W,,2-2,,Miami Dolphins,38,7,26,449,274,175,2,11,172,116,56,2,21.55,12.47,-6.26
+Patriots,2018,5,Thu,4-Oct,8:20PM ET,boxscore,W,,3-2,,Indianapolis Colts,38,24,26,438,341,97,2,26,439,355,84,3,13.9,-2.15,2.13
+Patriots,2018,6,Sun,14-Oct,8:20PM ET,boxscore,W,,4-2,,Kansas City Chiefs,43,40,31,500,327,173,1,18,446,352,94,2,21.54,-10.83,-8.17
+Patriots,2018,7,Sun,21-Oct,1:00PM ET,boxscore,W,,5-2,@,Chicago Bears,38,31,21,381,273,108,3,29,453,319,134,2,9.37,-16.6,5.66
+Patriots,2018,8,Mon,29-Oct,8:15PM ET,boxscore,W,,6-2,@,Buffalo Bills,25,6,22,387,311,76,,16,333,287,46,2,3.65,20.65,-6.52
+Patriots,2018,9,Sun,4-Nov,8:20PM ET,boxscore,W,,7-2,,Green Bay Packers,31,17,28,433,310,123,,22,367,250,117,1,17.14,-4.92,3.52
+Patriots,2018,10,Sun,11-Nov,1:00PM ET,boxscore,L,,7-3,@,Tennessee Titans,10,34,16,284,244,40,,23,385,235,150,,-5.76,-14.31,-2.47
+Patriots,2018,11,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2018,12,Sun,25-Nov,1:00PM ET,boxscore,W,,8-3,@,New York Jets,27,13,25,498,283,215,,18,338,264,74,1,20.44,-1.72,-2.45
+Patriots,2018,13,Sun,2-Dec,4:25PM ET,boxscore,W,,9-3,,Minnesota Vikings,24,10,27,471,311,160,1,16,278,183,95,2,16.1,9.14,-4.16
+Patriots,2018,14,Sun,9-Dec,1:00PM ET,boxscore,L,,9-4,@,Miami Dolphins,33,34,28,421,344,77,,20,412,223,189,,21.02,-19.73,-0.46
+Patriots,2018,15,Sun,16-Dec,4:25PM ET,boxscore,L,,9-5,@,Pittsburgh Steelers,10,17,18,368,272,96,1,24,376,218,158,2,1.66,-10.75,3.18
+Patriots,2018,16,Sun,23-Dec,1:00PM ET,boxscore,W,,10-5,,Buffalo Bills,24,12,20,390,117,273,3,14,289,217,72,3,-6.39,16.9,2.11
+Patriots,2018,17,Sun,30-Dec,1:00PM ET,boxscore,W,,11-5,,New York Jets,38,3,24,375,244,131,,12,239,135,104,3,12.41,29,-5.46
+Patriots,2018,Division,Sun,13-Jan,1:05PM ET,boxscore,W,,12-5,,Los Angeles Chargers,41,28,30,498,343,155,,22,335,316,19,2,24.01,-11.48,4.22
+Patriots,2018,Conf. Champ.,Sun,20-Jan,6:40PM ET,boxscore,W,OT,13-5,@,Kansas City Chiefs,37,31,36,524,348,176,2,18,290,249,41,,19.31,-14.41,1.94
+Patriots,2018,SuperBowl,Sun,3-Feb,6:30PM ET,boxscore,W,,14-5,N,Los Angeles Rams,13,3,22,407,253,154,1,14,260,198,62,1,2.46,11.82,-4.34
+Patriots,2017,1,Thu,7-Sep,8:30PM ET,boxscore,L,,0-1,,Kansas City Chiefs,27,42,25,371,247,124,,26,537,352,185,1,5.92,-23.18,0.73
+Patriots,2017,2,Sun,17-Sep,1:00PM ET,boxscore,W,,1-1,@,New Orleans Saints,36,20,29,555,436,119,,20,429,348,81,,27.58,-12.16,-2.32
+Patriots,2017,3,Sun,24-Sep,1:00PM ET,boxscore,W,,2-1,,Houston Texans,36,33,21,396,337,59,1,23,417,292,125,2,11.52,-7.08,-1.48
+Patriots,2017,4,Sun,1-Oct,1:00PM ET,boxscore,L,,2-2,,Carolina Panthers,30,33,24,373,293,80,,28,444,304,140,2,18.56,-24.18,2.62
+Patriots,2017,5,Thu,5-Oct,8:25PM ET,boxscore,W,,3-2,@,Tampa Bay Buccaneers,19,14,23,402,289,113,2,26,409,319,90,,-0.71,-10.33,14.94
+Patriots,2017,6,Sun,15-Oct,1:00PM ET,boxscore,W,,4-2,@,New York Jets,24,17,23,375,257,118,2,23,408,334,74,3,10.44,0.33,-2.19
+Patriots,2017,7,Sun,22-Oct,8:30PM ET,boxscore,W,,5-2,,Atlanta Falcons,23,7,25,403,241,162,,21,343,223,120,,15.29,-6.18,6.42
+Patriots,2017,8,Sun,29-Oct,1:00PM ET,boxscore,W,,6-2,,Los Angeles Chargers,21,13,27,414,317,97,,16,349,192,157,1,9.64,-8.46,5.7
+Patriots,2017,9,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2017,10,Sun,12-Nov,8:30PM ET,boxscore,W,,7-2,@,Denver Broncos,41,16,28,396,297,99,,17,339,221,118,2,14.71,-3.58,13.56
+Patriots,2017,11,Sun,19-Nov,4:25PM ET,boxscore,W,,8-2,@,Oakland Raiders,33,8,25,421,332,89,,21,344,235,109,2,23.44,-1.26,2.48
+Patriots,2017,12,Sun,26-Nov,1:00PM ET,boxscore,W,,9-2,,Miami Dolphins,35,17,25,417,221,196,2,15,221,154,67,3,9.46,11.65,-4.69
+Patriots,2017,13,Sun,3-Dec,1:00PM ET,boxscore,W,,10-2,@,Buffalo Bills,23,3,23,435,244,191,1,16,268,85,183,1,10.85,14.27,-2.35
+Patriots,2017,14,Mon,11-Dec,8:30PM ET,boxscore,L,,10-3,@,Miami Dolphins,20,27,14,248,223,25,2,21,362,242,120,,-3.59,-7.02,2.39
+Patriots,2017,15,Sun,17-Dec,4:25PM ET,boxscore,W,,11-3,@,Pittsburgh Steelers,27,24,21,360,283,77,1,21,413,270,143,1,15.3,-12.04,-0.66
+Patriots,2017,16,Sun,24-Dec,1:00PM ET,boxscore,W,,12-3,,Buffalo Bills,37,16,28,411,218,193,1,17,326,242,84,,21.06,2.94,-0.79
+Patriots,2017,17,Sun,31-Dec,1:00PM ET,boxscore,W,,13-3,,New York Jets,26,6,28,330,183,147,,14,247,207,40,,9.07,8.84,1.73
+Patriots,2017,Division,Sat,13-Jan,8:15PM ET,boxscore,W,,14-3,,Tennessee Titans,35,14,31,438,337,101,,15,267,202,65,,25.58,2,-7.65
+Patriots,2017,Conf. Champ.,Sun,21-Jan,3:05PM ET,boxscore,W,,15-3,,Jacksonville Jaguars,24,20,22,344,298,46,1,22,374,273,101,,10.37,-3.55,-1.4
+Patriots,2017,SuperBowl,Sun,4-Feb,6:30PM ET,boxscore,L,,15-4,N,Philadelphia Eagles,33,41,29,613,500,113,1,25,538,374,164,1,27.61,-29.26,-4.65
+Patriots,2016,1,Sun,11-Sep,8:30PM ET,boxscore,W,,1-0,@,Arizona Cardinals,23,21,19,363,257,106,2,21,344,252,92,,5.61,-11.42,9.08
+Patriots,2016,2,Sun,18-Sep,1:02PM ET,boxscore,W,,2-0,,Miami Dolphins,31,24,29,463,302,161,1,23,457,387,70,4,17.47,-6.98,-3.95
+Patriots,2016,3,Thu,22-Sep,8:26PM ET,boxscore,W,,3-0,,Houston Texans,27,0,15,282,97,185,,19,284,175,109,3,1.19,14.6,10.11
+Patriots,2016,4,Sun,2-Oct,1:02PM ET,boxscore,L,,3-1,,Buffalo Bills,0,16,13,277,187,90,1,24,378,244,134,,-10.11,-6.11,3.66
+Patriots,2016,5,Sun,9-Oct,1:02PM ET,boxscore,W,,4-1,@,Cleveland Browns,33,13,24,501,403,98,,17,262,235,27,1,17.05,4.26,-3.15
+Patriots,2016,6,Sun,16-Oct,1:02PM ET,boxscore,W,,5-1,,Cincinnati Bengals,35,17,25,437,358,79,,20,357,237,120,,21.68,-8.15,3.28
+Patriots,2016,7,Sun,23-Oct,4:25PM ET,boxscore,W,,6-1,@,Pittsburgh Steelers,27,16,21,362,222,140,2,17,375,281,94,1,12.52,4.28,-6.81
+Patriots,2016,8,Sun,30-Oct,1:02PM ET,boxscore,W,,7-1,@,Buffalo Bills,41,25,23,357,285,72,,25,376,209,167,,22.71,-13.72,6.16
+Patriots,2016,9,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2016,10,Sun,13-Nov,8:30PM ET,boxscore,L,,7-2,,Seattle Seahawks,24,31,25,385,304,81,2,23,420,324,96,,11.93,-17.85,-1.92
+Patriots,2016,11,Sun,20-Nov,4:25PM ET,boxscore,W,,8-2,@,San Francisco 49ers,30,17,28,444,273,171,,20,299,177,122,,17.09,-1.68,1.82
+Patriots,2016,12,Sun,27-Nov,4:25PM ET,boxscore,W,,9-2,@,New York Jets,22,17,26,377,286,91,,16,333,269,64,2,11.44,-0.93,-2.73
+Patriots,2016,13,Sun,4-Dec,1:00PM ET,boxscore,W,,10-2,,Los Angeles Rams,26,10,20,402,269,133,,7,162,126,36,2,3.25,18.27,-6.34
+Patriots,2016,14,Mon,12-Dec,8:30PM ET,boxscore,W,,11-2,,Baltimore Ravens,30,23,20,496,401,95,3,17,348,306,42,1,16.83,2.31,-8.57
+Patriots,2016,15,Sun,18-Dec,4:25PM ET,boxscore,W,,12-2,@,Denver Broncos,16,3,20,313,177,136,,15,309,251,58,3,-4.97,14.82,2.33
+Patriots,2016,16,Sat,24-Dec,1:00PM ET,boxscore,W,,13-2,,New York Jets,41,3,21,325,211,114,,14,239,128,111,4,16.02,18.13,2.07
+Patriots,2016,17,Sun,1-Jan,1:00PM ET,boxscore,W,,14-2,@,Miami Dolphins,35,14,22,396,276,120,,16,280,205,75,2,19.55,3.73,-6.78
+Patriots,2016,Division,Sat,14-Jan,8:15PM ET,boxscore,W,,15-2,,Houston Texans,34,16,20,377,279,98,3,14,302,197,105,3,2.26,20.16,-2.22
+Patriots,2016,Conf. Champ.,Sun,22-Jan,6:40PM ET,boxscore,W,,16-2,,Pittsburgh Steelers,36,17,26,431,374,57,,22,368,314,54,2,20.62,-2.88,2.03
+Patriots,2016,SuperBowl,Sun,5-Feb,6:30PM ET,boxscore,W,OT,17-2,N,Atlanta Falcons,34,28,37,546,442,104,2,17,344,240,104,1,13.47,-7.42,-1.32
+Patriots,2015,1,Thu,10-Sep,8:40PM ET,boxscore,W,,1-0,,Pittsburgh Steelers,28,21,26,361,281,80,,23,464,330,134,1,20.02,-17.01,1.3
+Patriots,2015,2,Sun,20-Sep,1:02PM ET,boxscore,W,,2-0,@,Buffalo Bills,40,32,28,507,451,56,2,23,349,189,160,3,6.15,-5.24,7.57
+Patriots,2015,3,Sun,27-Sep,1:06PM ET,boxscore,W,,3-0,,Jacksonville Jaguars,51,17,35,471,346,125,,15,293,236,57,1,36.41,-0.6,-2.35
+Patriots,2015,4,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2015,5,Sun,11-Oct,4:25PM ET,boxscore,W,,4-0,@,Dallas Cowboys,30,6,20,356,247,109,,18,289,187,102,2,7.94,15.25,-0.38
+Patriots,2015,6,Sun,18-Oct,8:30PM ET,boxscore,W,,5-0,@,Indianapolis Colts,34,27,22,417,301,116,1,24,409,289,120,,11.67,-6.55,3.83
+Patriots,2015,7,Sun,25-Oct,1:02PM ET,boxscore,W,,6-0,,New York Jets,30,23,20,353,337,16,,25,372,283,89,1,11.28,-10.33,3.42
+Patriots,2015,8,Thu,29-Oct,8:26PM ET,boxscore,W,,7-0,,Miami Dolphins,36,7,24,437,342,95,,18,270,255,15,2,13.71,10.95,4.67
+Patriots,2015,9,Sun,8-Nov,1:02PM ET,boxscore,W,,8-0,,Washington Redskins,27,10,27,460,299,161,2,16,250,213,37,2,12.06,7.34,-3.71
+Patriots,2015,10,Sun,15-Nov,4:31PM ET,boxscore,W,,9-0,@,New York Giants,27,26,22,406,329,77,2,21,422,342,80,1,6.31,-10.17,6.92
+Patriots,2015,11,Mon,23-Nov,8:30PM ET,boxscore,W,,10-0,,Buffalo Bills,20,13,18,356,271,85,1,16,319,225,94,1,1.75,1.49,3.36
+Patriots,2015,12,Sun,29-Nov,8:30PM ET,boxscore,L,OT,10-1,@,Denver Broncos,24,30,16,301,262,39,1,23,433,254,179,1,-2.09,-6.8,1.42
+Patriots,2015,13,Sun,6-Dec,4:25PM ET,boxscore,L,,10-2,,Philadelphia Eagles,28,35,27,427,324,103,2,15,248,120,128,1,0.42,2.29,-11.55
+Patriots,2015,14,Sun,13-Dec,8:31PM ET,boxscore,W,,11-2,@,Houston Texans,27,6,18,313,197,116,1,7,189,102,87,1,3.18,23.12,-5.49
+Patriots,2015,15,Sun,20-Dec,1:02PM ET,boxscore,W,,12-2,,Tennessee Titans,33,16,17,346,253,93,1,15,282,223,59,3,4.76,15.56,-4.63
+Patriots,2015,16,Sun,27-Dec,1:02PM ET,boxscore,L,OT,12-3,@,New York Jets,20,26,16,284,221,63,1,24,428,285,143,1,2.18,-7.6,-0.48
+Patriots,2015,17,Sun,3-Jan,1:02PM ET,boxscore,L,,12-4,@,Miami Dolphins,10,20,12,196,126,70,,20,438,342,96,,-8.91,-7.05,3.15
+Patriots,2015,Division,Sat,16-Jan,4:35PM ET,boxscore,W,,13-4,,Kansas City Chiefs,27,20,21,340,302,38,,27,378,243,135,1,12.79,-6.75,1.22
+Patriots,2015,Conf. Champ.,Sun,24-Jan,3:05PM ET,boxscore,L,,13-5,@,Denver Broncos,18,20,20,336,292,44,2,12,244,145,99,1,-11.95,11.11,-3.99
+Patriots,2014,1,Sun,7-Sep,1:03PM ET,boxscore,L,,0-1,@,Miami Dolphins,20,33,20,315,226,89,2,25,360,169,191,3,-10.28,-4.77,1.99
+Patriots,2014,2,Sun,14-Sep,1:05PM ET,boxscore,W,,1-1,@,Minnesota Vikings,30,7,16,292,142,150,,17,217,163,54,4,-2.65,16.66,9.14
+Patriots,2014,3,Sun,21-Sep,1:02PM ET,boxscore,W,,2-1,,Oakland Raiders,16,9,21,297,221,76,,14,241,174,67,1,4.61,5.4,-2.63
+Patriots,2014,4,Mon,29-Sep,8:31PM ET,boxscore,L,,2-2,@,Kansas City Chiefs,14,41,13,290,215,75,3,26,443,236,207,,-10.7,-16.31,6.25
+Patriots,2014,5,Sun,5-Oct,8:43PM ET,boxscore,W,,3-2,,Cincinnati Bengals,43,17,30,505,285,220,,17,320,241,79,3,16.33,0.49,6.4
+Patriots,2014,6,Sun,12-Oct,1:02PM ET,boxscore,W,,4-2,@,Buffalo Bills,37,22,22,396,346,50,,19,336,268,68,3,15.18,2.15,-3.36
+Patriots,2014,7,Thu,16-Oct,8:25PM ET,boxscore,W,,5-2,,New York Jets,27,25,16,323,260,63,,28,423,205,218,,10.59,-13.01,6.48
+Patriots,2014,8,Sun,26-Oct,1:02PM ET,boxscore,W,,6-2,,Chicago Bears,51,23,32,487,365,122,,27,384,231,153,2,23.22,-5.55,4.03
+Patriots,2014,9,Sun,2-Nov,4:25PM ET,boxscore,W,,7-2,,Denver Broncos,43,21,29,398,332,66,1,26,472,429,43,2,9.42,0.59,10.86
+Patriots,2014,10,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2014,11,Sun,16-Nov,8:31PM ET,boxscore,W,,8-2,@,Indianapolis Colts,42,20,33,503,257,246,2,17,322,303,19,1,31.96,0.02,-9.22
+Patriots,2014,12,Sun,23-Nov,1:02PM ET,boxscore,W,,9-2,,Detroit Lions,34,9,29,439,349,90,1,21,335,244,91,1,11.76,6.78,7.17
+Patriots,2014,13,Sun,30-Nov,4:25PM ET,boxscore,L,,9-3,@,Green Bay Packers,21,26,20,320,236,84,,24,478,348,130,,12.8,-19.28,1.73
+Patriots,2014,14,Sun,7-Dec,8:30PM ET,boxscore,W,,10-3,@,San Diego Chargers,23,14,24,397,310,87,2,13,216,163,53,1,-1.26,9.73,3.53
+Patriots,2014,15,Sun,14-Dec,1:02PM ET,boxscore,W,,11-3,,Miami Dolphins,41,13,23,395,287,108,1,23,384,308,76,2,14.57,8.8,7.17
+Patriots,2014,16,Sun,21-Dec,1:02PM ET,boxscore,W,,12-3,@,New York Jets,17,16,19,231,146,85,1,16,307,191,116,1,-3.88,-0.27,5.42
+Patriots,2014,17,Sun,28-Dec,1:02PM ET,boxscore,L,,12-4,,Buffalo Bills,9,17,14,260,144,116,,16,268,164,104,1,-8.54,-1.83,-0.21
+Patriots,2014,Division,Sat,10-Jan,4:35PM ET,boxscore,W,,13-4,,Baltimore Ravens,35,31,29,422,408,14,1,28,428,292,136,2,20.04,-15.9,-1.99
+Patriots,2014,Conf. Champ.,Sun,18-Jan,6:50PM ET,boxscore,W,,14-4,,Indianapolis Colts,45,7,28,397,220,177,1,17,209,126,83,3,22.43,9.46,3
+Patriots,2014,SuperBowl,Sun,1-Feb,6:30PM ET,boxscore,W,,15-4,N,Seattle Seahawks,28,24,25,377,320,57,2,20,396,234,162,1,13.67,-10.4,1.37
+Patriots,2013,1,Sun,8-Sep,1:02PM ET,boxscore,W,,1-0,@,Buffalo Bills,23,21,26,431,273,158,3,15,286,150,136,2,-8.67,8.3,0.96
+Patriots,2013,2,Thu,12-Sep,8:29PM ET,boxscore,W,,2-0,,New York Jets,13,10,9,232,178,54,,15,318,189,129,4,-16.53,20.4,2.25
+Patriots,2013,3,Sun,22-Sep,1:02PM ET,boxscore,W,,3-0,,Tampa Bay Buccaneers,23,3,21,358,202,156,1,18,323,226,97,1,4.05,11.23,2.25
+Patriots,2013,4,Sun,29-Sep,8:30PM ET,boxscore,W,,4-0,@,Atlanta Falcons,30,23,21,448,316,132,,26,457,399,58,1,15.86,-10.26,-0.71
+Patriots,2013,5,Sun,6-Oct,1:02PM ET,boxscore,L,,4-1,@,Cincinnati Bengals,6,13,15,248,166,82,2,21,341,179,162,2,-11.63,5.28,0.4
+Patriots,2013,6,Sun,13-Oct,4:25PM ET,boxscore,W,,5-1,,New Orleans Saints,30,27,26,376,235,141,1,20,361,230,131,2,-1.19,-4.55,3.36
+Patriots,2013,7,Sun,20-Oct,1:03PM ET,boxscore,L,OT,5-2,@,New York Jets,27,30,21,295,205,90,1,27,383,206,177,1,-7.1,4.71,-0.42
+Patriots,2013,8,Sun,27-Oct,1:02PM ET,boxscore,W,,6-2,,Miami Dolphins,27,17,19,252,100,152,1,23,301,145,156,3,0.94,1.22,7.15
+Patriots,2013,9,Sun,3-Nov,4:25PM ET,boxscore,W,,7-2,,Pittsburgh Steelers,55,31,33,610,413,197,1,24,479,371,108,3,33.33,-3.89,-4.45
+Patriots,2013,10,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2013,11,Mon,18-Nov,8:42PM ET,boxscore,L,,7-3,@,Carolina Panthers,20,24,28,390,283,107,2,20,300,197,103,,13.91,-17.75,0.63
+Patriots,2013,12,Sun,24-Nov,8:30PM ET,boxscore,W,OT,8-3,,Denver Broncos,34,31,27,440,324,116,3,28,412,132,280,4,-7.4,-0.53,12.8
+Patriots,2013,13,Sun,1-Dec,1:02PM ET,boxscore,W,,9-3,@,Houston Texans,34,31,28,453,365,88,1,19,385,264,121,1,17.29,-11.24,-1.17
+Patriots,2013,14,Sun,8-Dec,1:02PM ET,boxscore,W,,10-3,,Cleveland Browns,27,26,30,484,397,87,2,24,494,386,108,,12.46,-16.98,5.85
+Patriots,2013,15,Sun,15-Dec,1:02PM ET,boxscore,L,,10-4,@,Miami Dolphins,20,24,29,453,357,96,1,20,378,289,89,1,15.26,-11.98,-5.68
+Patriots,2013,16,Sun,22-Dec,4:25PM ET,boxscore,W,,11-4,@,Baltimore Ravens,41,7,21,300,158,142,,19,358,237,121,4,5.89,24.64,2.98
+Patriots,2013,17,Sun,29-Dec,4:25PM ET,boxscore,W,,12-4,,Buffalo Bills,34,20,24,382,115,267,1,19,393,224,169,,8.99,-1.47,7.8
+Patriots,2013,Division,Sat,11-Jan,8:15PM ET,boxscore,W,,13-4,,Indianapolis Colts,43,22,23,419,185,234,,16,386,317,69,4,18.81,7.19,-4.92
+Patriots,2013,Conf. Champ.,Sun,19-Jan,3:06PM ET,boxscore,L,,13-5,@,Denver Broncos,16,26,19,320,256,64,,27,507,400,107,,9.06,-23.4,1.34
+Patriots,2012,1,Sun,9-Sep,1:03PM ET,boxscore,W,,1-0,@,Tennessee Titans,34,13,25,390,228,162,,16,284,264,20,2,16.22,5.11,-1.32
+Patriots,2012,2,Sun,16-Sep,1:02PM ET,boxscore,L,,1-1,,Arizona Cardinals,18,20,25,387,297,90,1,16,242,140,102,2,-2.82,9.41,-11.04
+Patriots,2012,3,Sun,23-Sep,8:31PM ET,boxscore,L,,1-2,@,Baltimore Ravens,30,31,33,396,319,77,,28,503,382,121,1,17.99,-21.23,-0.02
+Patriots,2012,4,Sun,30-Sep,1:02PM ET,boxscore,W,,2-2,@,Buffalo Bills,52,28,33,580,333,247,2,19,438,340,98,6,25.9,3.86,-6.88
+Patriots,2012,5,Sun,7-Oct,4:25PM ET,boxscore,W,,3-2,,Denver Broncos,31,21,35,444,193,251,1,22,394,324,70,3,13.99,-6.34,0.99
+Patriots,2012,6,Sun,14-Oct,4:04PM ET,boxscore,L,,3-3,@,Seattle Seahawks,23,24,26,475,388,87,2,17,368,283,85,2,7.79,-4.31,-1.97
+Patriots,2012,7,Sun,21-Oct,4:25PM ET,boxscore,W,OT,4-3,,New York Jets,29,26,26,381,250,131,1,26,403,297,106,2,8,-4.9,6.07
+Patriots,2012,8,Sun,28-Oct,1:06PM ET,boxscore,W,,5-3,@,St. Louis Rams,45,7,29,473,321,152,,17,326,219,107,2,32.61,8.19,-3.51
+Patriots,2012,9,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2012,10,Sun,11-Nov,1:02PM ET,boxscore,W,,6-3,,Buffalo Bills,37,31,27,347,230,117,,35,481,319,162,3,21.52,-17.96,1.82
+Patriots,2012,11,Sun,18-Nov,4:25PM ET,boxscore,W,,7-3,,Indianapolis Colts,59,24,25,446,331,115,,28,448,329,119,4,26.83,1.95,7.74
+Patriots,2012,12,Thu,22-Nov,8:31PM ET,boxscore,W,,8-3,@,New York Jets,49,19,25,475,323,152,1,25,405,286,119,5,24.05,4.42,0.74
+Patriots,2012,13,Sun,2-Dec,1:02PM ET,boxscore,W,,9-3,@,Miami Dolphins,23,16,25,321,213,108,1,15,277,176,101,1,0.35,6.58,1.26
+Patriots,2012,14,Mon,10-Dec,8:40PM ET,boxscore,W,,10-3,,Houston Texans,42,14,27,419,289,130,1,19,323,223,100,1,20.98,6.13,-0.88
+Patriots,2012,15,Sun,16-Dec,8:30PM ET,boxscore,L,,10-4,,San Francisco 49ers,34,41,32,520,425,95,4,19,388,208,180,2,-1.63,-1.99,-5.22
+Patriots,2012,16,Sun,23-Dec,1:02PM ET,boxscore,W,,11-4,@,Jacksonville Jaguars,23,16,23,349,246,103,2,22,436,343,93,3,3.54,1.22,-0.4
+Patriots,2012,17,Sun,30-Dec,4:25PM ET,boxscore,W,,12-4,,Miami Dolphins,28,0,28,443,276,167,,16,256,209,47,2,17.21,11.12,-1.74
+Patriots,2012,Division,Sun,13-Jan,4:40PM ET,boxscore,W,,13-4,,Houston Texans,41,28,24,457,335,122,,25,425,334,91,1,20.49,-9.61,-0.69
+Patriots,2012,Conf. Champ.,Sun,20-Jan,6:40PM ET,boxscore,L,,13-5,,Baltimore Ravens,13,28,28,428,320,108,3,25,356,235,121,,0.89,-12.89,-1.67
+Patriots,2011,1,Mon,12-Sep,7:13PM ET,boxscore,W,,1-0,@,Miami Dolphins,38,24,27,622,516,106,1,25,488,390,98,1,24.68,-8.63,-2.84
+Patriots,2011,2,Sun,18-Sep,4:15PM ET,boxscore,W,,2-0,,San Diego Chargers,35,21,28,504,410,94,,29,470,372,98,4,25.02,-10.24,0.56
+Patriots,2011,3,Sun,25-Sep,1:03PM ET,boxscore,L,,2-1,@,Buffalo Bills,31,34,30,495,387,108,4,24,448,369,79,2,9.55,-9.66,-1.62
+Patriots,2011,4,Sun,2-Oct,4:15PM ET,boxscore,W,,3-1,@,Oakland Raiders,31,19,25,409,226,183,,24,504,344,160,2,18.64,-9.46,4.46
+Patriots,2011,5,Sun,9-Oct,4:15PM ET,boxscore,W,,4-1,,New York Jets,30,21,26,446,294,152,1,14,255,158,97,,15.34,-2.61,-3.21
+Patriots,2011,6,Sun,16-Oct,4:15PM ET,boxscore,W,,5-1,,Dallas Cowboys,20,16,25,371,270,101,4,21,377,300,77,2,2.89,1.21,-1.61
+Patriots,2011,7,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2011,8,Sun,30-Oct,4:15PM ET,boxscore,L,,5-2,@,Pittsburgh Steelers,17,25,19,213,170,43,,29,427,329,98,1,1.83,-10.61,-2.86
+Patriots,2011,9,Sun,6-Nov,4:15PM ET,boxscore,L,,5-3,,New York Giants,20,24,23,438,332,106,4,23,361,250,111,2,0.1,-3.18,-0.9
+Patriots,2011,10,Sun,13-Nov,8:31PM ET,boxscore,W,,6-3,@,New York Jets,37,16,21,389,329,60,,22,378,268,110,3,7.63,7.82,4.18
+Patriots,2011,11,Mon,21-Nov,8:40PM ET,boxscore,W,,7-3,,Kansas City Chiefs,34,3,20,380,223,157,1,16,334,209,125,3,10.81,13.31,4.42
+Patriots,2011,12,Sun,27-Nov,4:15PM ET,boxscore,W,,8-3,@,Philadelphia Eagles,38,20,29,457,353,104,,23,466,393,73,1,25.56,-8.06,2.6
+Patriots,2011,13,Sun,4-Dec,1:02PM ET,boxscore,W,,9-3,,Indianapolis Colts,31,24,24,362,289,73,,26,437,338,99,2,17.29,-13.4,5.22
+Patriots,2011,14,Sun,11-Dec,1:03PM ET,boxscore,W,,10-3,@,Washington Redskins,34,27,22,431,352,79,1,25,463,293,170,2,17.14,-13.23,2.16
+Patriots,2011,15,Sun,18-Dec,4:16PM ET,boxscore,W,,11-3,@,Denver Broncos,41,23,26,451,310,141,,25,393,141,252,3,20.42,-0.94,2.16
+Patriots,2011,16,Sat,24-Dec,1:02PM ET,boxscore,W,,12-3,,Miami Dolphins,27,24,26,400,281,119,,20,374,253,121,2,10.6,-6.57,-1.32
+Patriots,2011,17,Sun,1-Jan,1:02PM ET,boxscore,W,,13-3,,Buffalo Bills,49,21,28,480,342,138,1,26,402,296,106,4,22.96,-2.1,4.16
+Patriots,2011,Division,Sat,14-Jan,8:15PM ET,boxscore,W,,14-3,,Denver Broncos,45,10,31,509,363,146,2,15,252,108,144,1,27.14,11.2,-2.48
+Patriots,2011,Conf. Champ.,Sun,22-Jan,3:05PM ET,boxscore,W,,15-3,,Baltimore Ravens,23,20,25,330,234,96,3,19,398,282,116,1,5.91,-3.41,-1.42
+Patriots,2011,SuperBowl,Sun,5-Feb,6:30PM ET,boxscore,L,,15-4,N,New York Giants,17,21,21,349,266,83,1,26,396,282,114,,10.62,-13.35,-1.39
+Patriots,2010,1,Sun,12-Sep,1:02PM ET,boxscore,W,,1-0,,Cincinnati Bengals,38,24,20,376,258,118,,26,428,341,87,2,15.94,-10.45,-0.01
+Patriots,2010,2,Sun,19-Sep,4:16PM ET,boxscore,L,,1-1,@,New York Jets,14,28,20,291,239,52,3,23,336,200,136,,3.86,-14.8,-1.6
+Patriots,2010,3,Sun,26-Sep,1:02PM ET,boxscore,W,,2-1,,Buffalo Bills,38,30,25,445,245,200,1,19,374,240,134,2,21.52,-7.72,-4.21
+Patriots,2010,4,Mon,4-Oct,8:41PM ET,boxscore,W,,3-1,@,Miami Dolphins,41,14,19,265,146,119,,23,400,308,92,4,6.85,3.7,16.32
+Patriots,2010,5,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2010,6,Sun,17-Oct,1:02PM ET,boxscore,W,OT,4-1,,Baltimore Ravens,23,20,23,394,267,127,2,21,377,278,99,,1.3,-3.74,4.59
+Patriots,2010,7,Sun,24-Oct,4:15PM ET,boxscore,W,,5-1,@,San Diego Chargers,23,20,15,179,128,51,,23,363,325,38,4,-4.8,5.76,3.61
+Patriots,2010,8,Sun,31-Oct,4:15PM ET,boxscore,W,,6-1,,Minnesota Vikings,28,18,18,362,240,122,,23,410,285,125,1,16.12,-4.41,-3.1
+Patriots,2010,9,Sun,7-Nov,1:02PM ET,boxscore,L,,6-2,@,Cleveland Browns,14,34,19,283,215,68,3,22,404,174,230,1,1.33,-16.31,-5.16
+Patriots,2010,10,Sun,14-Nov,8:30PM ET,boxscore,W,,7-2,@,Pittsburgh Steelers,39,26,26,453,350,103,,27,425,349,76,1,14.6,-9.29,2.65
+Patriots,2010,11,Sun,21-Nov,4:15PM ET,boxscore,W,,8-2,,Indianapolis Colts,31,28,22,346,178,168,,28,467,396,71,3,18.18,-20.15,4.02
+Patriots,2010,12,Thu,25-Nov,12:38PM ET,boxscore,W,,9-2,@,Detroit Lions,45,24,20,447,338,109,,25,406,277,129,2,28.1,-6.23,-2.52
+Patriots,2010,13,Mon,6-Dec,8:40PM ET,boxscore,W,,10-2,,New York Jets,45,3,23,405,304,101,,18,301,149,152,3,27.83,10.55,0.42
+Patriots,2010,14,Sun,12-Dec,4:16PM ET,boxscore,W,,11-2,@,Chicago Bears,36,7,27,475,351,124,,12,185,138,47,4,17.55,20.99,-8.57
+Patriots,2010,15,Sun,19-Dec,8:30PM ET,boxscore,W,,12-2,,Green Bay Packers,31,27,14,249,136,113,,26,369,226,143,2,5.47,-4.76,4.2
+Patriots,2010,16,Sun,26-Dec,1:02PM ET,boxscore,W,,13-2,@,Buffalo Bills,34,3,20,348,131,217,,16,369,244,125,7,4.14,22.08,4.55
+Patriots,2010,17,Sun,2-Jan,1:02PM ET,boxscore,W,,14-2,,Miami Dolphins,38,7,24,502,321,181,1,16,250,206,44,2,17.17,8.56,6.72
+Patriots,2010,Division,Sun,16-Jan,4:40PM ET,boxscore,L,,14-3,,New York Jets,21,28,26,372,259,113,1,14,314,194,120,,-6.26,-9.99,6.57
+Patriots,2009,1,Mon,14-Sep,7:10PM ET,boxscore,W,,1-0,,Buffalo Bills,25,24,28,441,368,73,1,17,276,186,90,1,3.32,-8.95,2.17
+Patriots,2009,2,Sun,20-Sep,1:02PM ET,boxscore,L,,1-1,@,New York Jets,9,16,18,299,216,83,1,14,254,137,117,1,-7.75,6.41,-7.46
+Patriots,2009,3,Sun,27-Sep,1:02PM ET,boxscore,W,,2-1,,Atlanta Falcons,26,10,28,445,277,168,,13,257,199,58,1,18.68,1.34,-2.51
+Patriots,2009,4,Sun,4-Oct,1:02PM ET,boxscore,W,,3-1,,Baltimore Ravens,27,21,25,319,234,85,1,24,363,247,116,2,8.81,-6.44,1.43
+Patriots,2009,5,Sun,11-Oct,4:16PM ET,boxscore,L,OT,3-2,@,Denver Broncos,17,20,18,305,209,96,1,27,424,321,103,2,-0.02,-7.82,4.84
+Patriots,2009,6,Sun,18-Oct,4:15PM ET,boxscore,W,,4-2,,Tennessee Titans,59,0,32,619,426,193,,9,186,-7,193,5,36.89,27.56,-7.42
+Patriots,2009,7,Sun,25-Oct,1:06PM ET,boxscore,W,,5-2,@,Tampa Bay Buccaneers,35,7,18,414,307,107,2,10,240,151,89,3,5.48,25.62,-0.17
+Patriots,2009,8,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2009,9,Sun,8-Nov,1:02PM ET,boxscore,W,,6-2,,Miami Dolphins,27,17,22,432,323,109,1,21,334,201,133,,14.93,-5.4,-1.34
+Patriots,2009,10,Sun,15-Nov,8:31PM ET,boxscore,L,,6-3,@,Indianapolis Colts,34,35,24,477,364,113,2,25,407,316,91,2,8.97,-15.29,5.42
+Patriots,2009,11,Sun,22-Nov,4:15PM ET,boxscore,W,,7-3,,New York Jets,31,14,27,410,299,111,1,12,226,122,104,5,7.52,20.17,-13.8
+Patriots,2009,12,Mon,30-Nov,8:40PM ET,boxscore,L,,7-4,@,New Orleans Saints,17,38,23,366,244,122,3,18,480,367,113,1,2.22,-26.6,2.49
+Patriots,2009,13,Sun,6-Dec,1:02PM ET,boxscore,L,,7-5,@,Miami Dolphins,21,22,18,448,352,96,2,24,416,328,88,1,7.11,-7.83,-2.59
+Patriots,2009,14,Sun,13-Dec,1:02PM ET,boxscore,W,,8-5,,Carolina Panthers,20,10,26,377,192,185,3,14,305,179,126,,-2.15,6.47,5.88
+Patriots,2009,15,Sun,20-Dec,1:02PM ET,boxscore,W,,9-5,@,Buffalo Bills,17,10,19,224,115,109,1,16,241,136,105,1,1.46,5.92,-3.22
+Patriots,2009,16,Sun,27-Dec,1:02PM ET,boxscore,W,,10-5,,Jacksonville Jaguars,35,7,26,464,267,197,1,16,275,177,98,2,25.33,6.91,-5.54
+Patriots,2009,17,Sun,3-Jan,1:02PM ET,boxscore,L,,10-6,@,Houston Texans,27,34,21,317,243,74,2,29,439,295,144,1,-1.26,-12.27,4.15
+Patriots,2009,Wild Card,Sun,10-Jan,1:03PM ET,boxscore,L,,10-7,,Baltimore Ravens,14,33,15,196,132,64,4,16,268,34,234,2,-24.38,-2.55,6.06
+Patriots,2008,1,Sun,7-Sep,1:02PM ET,boxscore,W,,1-0,,Kansas City Chiefs,17,10,18,338,212,126,2,14,284,182,102,1,-0.15,3.65,2.19
+Patriots,2008,2,Sun,14-Sep,4:15PM ET,boxscore,W,,2-0,@,New York Jets,19,10,18,260,156,104,,12,256,152,104,1,3.85,1.68,6.05
+Patriots,2008,3,Sun,21-Sep,1:02PM ET,boxscore,L,,2-1,,Miami Dolphins,13,38,14,215,137,78,2,23,461,245,216,,-10.38,-25.97,10.52
+Patriots,2008,4,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2008,5,Sun,5-Oct,4:15PM ET,boxscore,W,,3-1,@,San Francisco 49ers,30,21,25,377,233,144,2,12,199,122,77,3,6.43,7.24,-3.77
+Patriots,2008,6,Sun,12-Oct,8:20PM ET,boxscore,L,,3-2,@,San Diego Chargers,10,30,18,299,193,106,1,19,404,306,98,1,-8.42,-12.52,3.21
+Patriots,2008,7,Mon,20-Oct,8:40PM ET,boxscore,W,,4-2,,Denver Broncos,41,7,25,404,147,257,,19,275,169,106,5,21.15,12.44,-1.41
+Patriots,2008,8,Sun,26-Oct,1:02PM ET,boxscore,W,,5-2,,St. Louis Rams,23,16,23,348,250,98,2,15,358,268,90,1,1.93,2.45,1.68
+Patriots,2008,9,Sun,2-Nov,8:23PM ET,boxscore,L,,5-3,@,Indianapolis Colts,15,18,22,342,202,140,2,18,301,254,47,,7.35,-13.15,-0.5
+Patriots,2008,10,Sun,9-Nov,1:02PM ET,boxscore,W,,6-3,,Buffalo Bills,20,10,24,370,226,144,1,10,168,108,60,2,7.62,7.73,-7.25
+Patriots,2008,11,Thu,13-Nov,8:15PM ET,boxscore,L,OT,6-4,,New York Jets,31,34,26,511,386,125,1,23,375,235,140,1,11.08,-9.6,-4.66
+Patriots,2008,12,Sun,23-Nov,1:02PM ET,boxscore,W,,7-4,@,Miami Dolphins,48,28,30,530,408,122,2,23,392,326,66,1,28.35,-8.22,1.06
+Patriots,2008,13,Sun,30-Nov,4:15PM ET,boxscore,L,,7-5,,Pittsburgh Steelers,10,33,19,267,145,122,5,19,333,172,161,1,-18.08,-1,-1.93
+Patriots,2008,14,Sun,7-Dec,4:06PM ET,boxscore,W,,8-5,@,Seattle Seahawks,24,21,22,344,260,84,,18,339,205,134,1,11.18,-9.1,1.46
+Patriots,2008,15,Sun,14-Dec,4:15PM ET,boxscore,W,,9-5,@,Oakland Raiders,49,26,29,487,210,277,1,19,334,218,116,1,27.83,-1.46,0.84
+Patriots,2008,16,Sun,21-Dec,1:02PM ET,boxscore,W,,10-5,,Arizona Cardinals,47,7,27,514,331,183,,8,186,142,44,2,22.27,17.28,0.23
+Patriots,2008,17,Sun,28-Dec,1:02PM ET,boxscore,W,,11-5,@,Buffalo Bills,13,0,16,241,73,168,,15,276,115,161,1,4.29,8.18,-4.88
+Patriots,2007,1,Sun,9-Sep,1:03PM ET,boxscore,W,,1-0,@,New York Jets,38,14,28,431,297,134,,17,227,167,60,,24.34,0.25,3.22
+Patriots,2007,2,Sun,16-Sep,8:24PM ET,boxscore,W,,2-0,,San Diego Chargers,38,14,25,407,263,144,2,14,201,149,52,3,21.17,12.5,-10.36
+Patriots,2007,3,Sun,23-Sep,1:02PM ET,boxscore,W,,3-0,,Buffalo Bills,38,7,27,485,308,177,1,12,193,83,110,2,18.54,13.44,-1.49
+Patriots,2007,4,Mon,1-Oct,8:40PM ET,boxscore,W,,4-0,@,Cincinnati Bengals,34,13,25,404,231,173,1,17,283,226,57,2,20.74,3.18,-3.41
+Patriots,2007,5,Sun,7-Oct,1:02PM ET,boxscore,W,,5-0,,Cleveland Browns,34,17,23,412,265,147,,22,353,261,92,4,7.56,18.07,-6.63
+Patriots,2007,6,Sun,14-Oct,4:17PM ET,boxscore,W,,6-0,@,Dallas Cowboys,48,27,28,448,373,75,1,13,285,186,99,1,22.04,0.85,-2.49
+Patriots,2007,7,Sun,21-Oct,1:02PM ET,boxscore,W,,7-0,@,Miami Dolphins,49,28,23,443,359,84,1,25,382,203,179,2,24.01,-7.83,4.43
+Patriots,2007,8,Sun,28-Oct,4:17PM ET,boxscore,W,,8-0,,Washington Redskins,52,7,34,486,334,152,1,13,224,177,47,4,27.45,18.23,-1.89
+Patriots,2007,9,Sun,4-Nov,4:18PM ET,boxscore,W,,9-0,@,Indianapolis Colts,24,20,21,342,237,105,2,23,329,210,119,2,4.37,-7.32,8.35
+Patriots,2007,10,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2007,11,Sun,18-Nov,8:24PM ET,boxscore,W,,10-0,@,Buffalo Bills,56,10,30,510,383,127,,14,229,151,78,2,40.46,11.6,-10.16
+Patriots,2007,12,Sun,25-Nov,8:23PM ET,boxscore,W,,11-0,,Philadelphia Eagles,31,28,25,410,362,48,,22,391,336,55,3,16.62,-8.68,-3.37
+Patriots,2007,13,Mon,3-Dec,8:41PM ET,boxscore,W,,12-0,@,Baltimore Ravens,27,24,21,326,236,90,1,20,376,210,166,2,9.75,-10.6,-1.9
+Patriots,2007,14,Sun,9-Dec,4:15PM ET,boxscore,W,,13-0,,Pittsburgh Steelers,34,13,21,421,399,22,,19,349,168,181,1,19.16,-2.65,1.1
+Patriots,2007,15,Sun,16-Dec,1:02PM ET,boxscore,W,,14-0,,New York Jets,20,10,16,265,134,131,1,13,234,144,90,2,-3.9,14.71,-2.28
+Patriots,2007,16,Sun,23-Dec,4:15PM ET,boxscore,W,,15-0,,Miami Dolphins,28,7,19,400,204,196,4,15,241,133,108,,10.18,16.75,-5.94
+Patriots,2007,17,Sat,29-Dec,8:15PM ET,boxscore,W,,16-0,@,New York Giants,38,35,27,390,346,44,,19,316,237,79,1,18.62,-15.38,-0.98
+Patriots,2007,Division,Sat,12-Jan,8:15PM ET,boxscore,W,,17-0,,Jacksonville Jaguars,31,20,24,403,258,145,,22,350,270,80,2,25.54,-13.05,-2.44
+Patriots,2007,Conf. Champ.,Sun,20-Jan,3:05PM ET,boxscore,W,,18-0,,San Diego Chargers,21,12,25,347,198,149,3,17,311,207,104,2,4.23,5.37,3.08
+Patriots,2007,SuperBowl,Sun,3-Feb,6:30PM ET,boxscore,L,,18-1,N,New York Giants,14,17,22,274,229,45,1,17,338,247,91,1,-2.09,-5.07,-0.7
+Patriots,2006,1,Sun,10-Sep,1:02PM ET,boxscore,W,,1-0,,Buffalo Bills,19,17,19,319,136,183,2,12,240,141,99,,-0.11,4.37,-0.17
+Patriots,2006,2,Sun,17-Sep,4:15PM ET,boxscore,W,,2-0,@,New York Jets,24,17,24,358,211,147,2,16,338,286,52,1,11.75,-4.74,0.45
+Patriots,2006,3,Sun,24-Sep,8:20PM ET,boxscore,L,,2-1,,Denver Broncos,7,17,22,370,320,50,,19,400,256,144,,-4.72,-7.44,3.06
+Patriots,2006,4,Sun,1-Oct,4:15PM ET,boxscore,W,,3-1,@,Cincinnati Bengals,38,13,26,424,188,236,1,17,279,208,71,2,20.86,8.25,-6.05
+Patriots,2006,5,Sun,8-Oct,1:02PM ET,boxscore,W,,4-1,,Miami Dolphins,20,10,17,213,134,79,1,19,283,221,62,3,0.13,12.65,0.58
+Patriots,2006,6,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2006,7,Sun,22-Oct,1:02PM ET,boxscore,W,,5-1,@,Buffalo Bills,28,6,18,265,171,94,,12,255,180,75,4,8.71,15.4,0.24
+Patriots,2006,8,Mon,30-Oct,8:38PM ET,boxscore,W,,6-1,@,Minnesota Vikings,31,7,25,430,345,85,2,17,284,239,45,4,8.51,21.72,-5.28
+Patriots,2006,9,Sun,5-Nov,8:20PM ET,boxscore,L,,6-2,,Indianapolis Colts,20,27,24,349,201,148,5,24,354,301,53,2,-1.94,-12.48,8.5
+Patriots,2006,10,Sun,12-Nov,1:02PM ET,boxscore,L,,6-3,,New York Jets,14,17,22,377,232,145,2,19,278,161,117,1,1,-4.34,-1.37
+Patriots,2006,11,Sun,19-Nov,1:02PM ET,boxscore,W,,7-3,@,Green Bay Packers,35,0,22,357,235,122,1,5,120,76,44,1,10.26,25.98,-2.13
+Patriots,2006,12,Sun,26-Nov,4:15PM ET,boxscore,W,,8-3,,Chicago Bears,17,13,20,352,267,85,5,21,324,171,153,4,-4.63,1.12,6.79
+Patriots,2006,13,Sun,3-Dec,1:02PM ET,boxscore,W,,9-3,,Detroit Lions,28,21,23,363,284,79,3,22,361,284,77,5,1.47,7.79,-2.54
+Patriots,2006,14,Sun,10-Dec,1:02PM ET,boxscore,L,,9-4,@,Miami Dolphins,0,21,12,189,66,123,3,19,315,184,131,,-18.33,-7.03,1.55
+Patriots,2006,15,Sun,17-Dec,1:02PM ET,boxscore,W,,10-4,,Houston Texans,40,7,15,230,125,105,,13,198,93,105,4,-2.51,27.03,6.97
+Patriots,2006,16,Sun,24-Dec,1:03PM ET,boxscore,W,,11-4,@,Jacksonville Jaguars,24,21,22,359,242,117,,12,339,195,144,1,11.2,-5.6,-1.69
+Patriots,2006,17,Sun,31-Dec,1:02PM ET,boxscore,W,,12-4,@,Tennessee Titans,40,23,19,414,243,171,,17,342,207,135,3,16.9,6.02,-5.07
+Patriots,2006,Wild Card,Sun,7-Jan,1:05PM ET,boxscore,W,,13-4,,New York Jets,37,16,26,358,200,158,1,18,347,277,70,2,13.08,9.27,-0.25
+Patriots,2006,Division,Sun,14-Jan,4:40PM ET,boxscore,W,,14-4,@,San Diego Chargers,24,21,18,327,276,51,3,21,352,204,148,4,-8.22,-0.75,10.7
+Patriots,2006,Conf. Champ.,Sun,21-Jan,6:44PM ET,boxscore,L,,14-5,@,Indianapolis Colts,34,38,17,319,226,93,1,32,455,330,125,1,3.4,-14.34,6.49
+Patriots,2005,1,Thu,8-Sep,9:07PM ET,boxscore,W,,1-0,,Oakland Raiders,30,20,22,379,306,73,,19,338,246,92,1,9.14,4.1,-1.15
+Patriots,2005,2,Sun,18-Sep,1:02PM ET,boxscore,L,,1-1,@,Carolina Panthers,17,27,14,288,249,39,3,17,250,146,104,1,-15.49,6.8,-3.37
+Patriots,2005,3,Sun,25-Sep,4:15PM ET,boxscore,W,,2-1,@,Pittsburgh Steelers,23,20,24,426,346,80,3,14,269,190,79,1,-1.71,1.79,2.83
+Patriots,2005,4,Sun,2-Oct,1:02PM ET,boxscore,L,,2-2,,San Diego Chargers,17,41,18,303,231,72,2,26,431,248,183,,-1.28,-24,2.9
+Patriots,2005,5,Sun,9-Oct,1:05PM ET,boxscore,W,,3-2,@,Atlanta Falcons,31,28,20,483,342,141,1,22,400,284,116,,16.4,-12.17,-0.29
+Patriots,2005,6,Sun,16-Oct,4:16PM ET,boxscore,L,,3-3,@,Denver Broncos,20,28,22,388,299,89,,20,432,254,178,,6.24,-14.19,1.87
+Patriots,2005,7,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+Patriots,2005,8,Sun,30-Oct,8:37PM ET,boxscore,W,,4-3,,Buffalo Bills,21,16,18,273,180,93,2,24,394,247,147,2,-0.51,2.85,2.96
+Patriots,2005,9,Mon,7-Nov,9:08PM ET,boxscore,L,,4-4,,Indianapolis Colts,21,40,17,288,254,34,2,28,453,321,132,1,3.6,-23.5,2.29
+Patriots,2005,10,Sun,13-Nov,1:03PM ET,boxscore,W,,5-4,@,Miami Dolphins,23,16,19,365,274,91,2,22,437,360,77,2,2.44,2.63,-0.86
+Patriots,2005,11,Sun,20-Nov,1:02PM ET,boxscore,W,,6-4,,New Orleans Saints,24,17,20,326,194,132,1,23,425,338,87,1,8.16,-7.39,8.03
+Patriots,2005,12,Sun,27-Nov,1:00PM ET,boxscore,L,,6-5,@,Kansas City Chiefs,16,26,20,306,232,74,4,24,420,308,112,1,-1.6,-9.24,3.27
+Patriots,2005,13,Sun,4-Dec,4:15PM ET,boxscore,W,,7-5,,New York Jets,16,3,24,397,251,146,,12,164,123,41,1,9.27,12.37,-6.2
+Patriots,2005,14,Sun,11-Dec,1:02PM ET,boxscore,W,,8-5,@,Buffalo Bills,35,7,32,494,335,159,2,8,183,169,14,3,13.15,16.41,-4.35
+Patriots,2005,15,Sat,17-Dec,1:33PM ET,boxscore,W,,9-5,,Tampa Bay Buccaneers,28,0,22,336,253,83,,12,138,108,30,1,10.09,20.78,-0.69
+Patriots,2005,16,Mon,26-Dec,9:09PM ET,boxscore,W,,10-5,@,New York Jets,31,21,26,321,170,151,1,10,171,131,40,3,2.95,4.96,5.51
+Patriots,2005,17,Sun,1-Jan,1:02PM ET,boxscore,L,,10-6,,Miami Dolphins,26,28,16,259,204,55,1,25,378,230,148,,3.14,-10.29,4.15
+Patriots,2005,,,Playoffs,,,,,,,,,,,,,,,,,,,,,,
+Patriots,2005,Wild Card,Sat,7-Jan,8:08PM ET,boxscore,W,,11-6,,Jacksonville Jaguars,28,3,17,307,189,118,,15,292,205,87,2,4.63,23.54,-0.73
+Patriots,2005,Division,Sat,14-Jan,8:16PM ET,boxscore,L,,11-7,@,Denver Broncos,13,27,15,420,341,79,5,16,286,190,96,1,-8.32,5.27,-12.26
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patriots,,,,,,,,,,,,,,,,,,,,,,,,,,
