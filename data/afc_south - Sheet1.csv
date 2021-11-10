@@ -1,5 +1,4 @@
-,,,,,,,,,,,,Score,Score,Offense,Offense,Offense,Offense,Offense,Defense,Defense,Defense,Defense,Defense,Expected Points,Expected Points,Expected Points
-team,season,Week,Day,Date,,,,OT,Rec,,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+Team,Season,Week,Day,Date,,,,OT,Rec,,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
 Indianapolis Colts,2000,1,Sun,September 3,1:00PM ET,boxscore,W,,1-0,@,Kansas City Chiefs,27,14,20,386,267,119,2,17,280,206,74,1,-0.41,7.06,4.02
 Indianapolis Colts,2000,2,Sun,September 10,1:00PM ET,boxscore,L,,1-1,,Oakland Raiders,31,38,28,462,351,111,3,21,359,207,152,,14.23,-18.08,-2.67
 Indianapolis Colts,2000,3,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
